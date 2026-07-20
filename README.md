@@ -19,29 +19,24 @@ A simple, clean to-do list web app built with Flask and deployed on Render.
 
 ## Live Demo
 
-🔗 _Add your Render URL here, e.g. https://your-app-name.onrender.com_
+🔗 _Add your Render URL here, e.g. https://to-do-4-unpq.onrender.com/_
 
 ## Running Locally
 
 Clone the repo and install dependencies:
-
-```bash
+bash
 git clone https://github.com/ufedoo126-source/To-Do.git
 cd To-Do
 pip install -r requirements.txt
 python app.py
-```
-
 Then open `http://localhost:5000` in your browser.
 
 ## Project Structure
 
-```
 ├── app.py              # Main Flask application
 ├── database.py         # Database logic
 ├── requirements.txt    # Python dependencies
 └── README.md
-```
 
 ## Roadmap / Ideas
 
