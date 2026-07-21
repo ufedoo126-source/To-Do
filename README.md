@@ -4,11 +4,11 @@ A simple, clean to-do list web app built with Flask and deployed on Render.
 
 ## Features
 
-- ✅ Add tasks with an optional due date/reminder
-- 🔍 Search tasks by keyword
-- 🗂️ Filter by status: **All**, **Pending**, **Completed**
-- ↕️ Sort by **Newest**, **Oldest**, or **By Reminder**
-- 💾 Persistent task storage via a database backend
+- Add tasks with an optional due date/reminder
+- Search tasks by keyword
+- Filter by status: **All**, **Pending**, **Completed**
+- Sort by **Newest**, **Oldest**, or **By Reminder**
+- Persistent task storage via a database backend
 
 ## Tech Stack
 
